@@ -1,15 +1,17 @@
 Trabalho final de Programação para dispositivos móveis
 
-Alunos: João Pedro de OliveiraPiresMaria Eduarda CaldasEloi
+Alunos: João Pedro de Oliveira Pires e Maria Eduarda Caldas Eloi
 
 Especificações do trabalho
 Visão Geral:
-O aplicativo proposto, gerencia tarefas. Ele permite aos usuários criar e organizar suastarefas diárias, facilitando a organização e a produtividade do usuário.
-Este aplicativovai ser desenvolvido para dispositivos Android utilizando a linguagem de programação Java. 
+O aplicativo proposto, gerencia tarefas. Ele permite aos usuários criar e organizar suas tarefas diárias, 
+facilitando a organização e a produtividade do usuário. Este aplicativo vai ser desenvolvido para dispositivos
+Android utilizando a linguagem de programação Java. 
 
 Papéis:
-Usuário Comum: Usuário típico do aplicativo, que utiliza a plataforma para criar, gerenciar eacompanhar suas próprias tarefas diárias.
-Os usuários comuns podem criar, editar, excluir emarcar tarefas como concluídas. Eles também podem definir lembretes e categorias parasuastarefas. 
+Usuário Comum: Usuário típico do aplicativo, que utiliza a plataforma para criar, 
+gerenciar eacompanhar suas próprias tarefas diárias. Os usuários comuns podem criar, editar, excluir e 
+marcar tarefas como concluídas. Eles também podem definir lembretes e categorias para suas tarefas. 
 
 Requisitos Funcionais:
 Autenticação e Registro:
@@ -18,11 +20,11 @@ RF-2. O sistema deve permitir fazer login caso o usuário possua uma conta já e
 
 Gestão de Tarefas:
 RF-3. Os usuários devem poder criar uma nova tarefa, fornecendo um título, descrição, dataehorário de vencimento.
-RF-4. Os usuários devem ter a capacidade de editar o título, descrição, data de vencimentoecategorias das tarefas existentes. 
+RF-4. Os usuários devem ter a capacidade de editar o título, descrição, data de vencimento e categorias das tarefas existentes. 
 RF-5. Os usuários devem poder estabelecer prazos e prioridades para as tarefas. 
 RF-6. Os usuários devem poder excluir tarefas ou marcar tarefas como concluídas e desfazer
 essa marcação, se necessário. 
 RF-7. O sistema deve permitir aos usuários arquivar tarefas concluídas, mantendo o históricodesuas atividades. 
-RF-8. O sistema deve haver uma função de pesquisa que permita aos usuários encontrar tarefascom base em palavras-chave ou datas. 
-RF-9. O aplicativo deve permitir que os usuários visualizem suas tarefas emuma lista ordenadapor data de vencimento ou prioridade.
+RF-8. O sistema deve haver uma função de pesquisa que permita aos usuários encontrar tarefas com base em palavras-chave ou datas. 
+RF-9. O aplicativo deve permitir que os usuários visualizem suas tarefas emuma lista ordenada por data de vencimento ou prioridade.
 
