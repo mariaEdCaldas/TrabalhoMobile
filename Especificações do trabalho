@@ -22,9 +22,8 @@ Gestão de Tarefas:
 RF-3. Os usuários devem poder criar uma nova tarefa, fornecendo um título, descrição, dataehorário de vencimento.
 RF-4. Os usuários devem ter a capacidade de editar o título, descrição, data de vencimento e categorias das tarefas existentes. 
 RF-5. Os usuários devem poder estabelecer prazos e prioridades para as tarefas. 
-RF-6. Os usuários devem poder excluir tarefas ou marcar tarefas como concluídas e desfazer
-essa marcação, se necessário. 
-RF-7. O sistema deve permitir aos usuários arquivar tarefas concluídas, mantendo o históricodesuas atividades. 
+RF-6. Os usuários devem poder excluir tarefas ou marcar tarefas como concluídas e desfazer essa marcação, se necessário. 
+RF-7. O sistema deve permitir aos usuários arquivar tarefas concluídas, mantendo o histórico de suas atividades. 
 RF-8. O sistema deve haver uma função de pesquisa que permita aos usuários encontrar tarefas com base em palavras-chave ou datas. 
-RF-9. O aplicativo deve permitir que os usuários visualizem suas tarefas emuma lista ordenada por data de vencimento ou prioridade.
+RF-9. O aplicativo deve permitir que os usuários visualizem suas tarefas em uma lista ordenada por data de vencimento ou prioridade.
 
