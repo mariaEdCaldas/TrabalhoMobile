@@ -27,3 +27,7 @@ RF-7. O sistema deve permitir aos usuários arquivar tarefas concluídas, manten
 RF-8. O sistema deve haver uma função de pesquisa que permita aos usuários encontrar tarefas com base em palavras-chave ou datas. 
 RF-9. O aplicativo deve permitir que os usuários visualizem suas tarefas em uma lista ordenada por data de vencimento ou prioridade.
 
+
+OBS: Considere incluir os recursos: câmera para foto, hash da senha, notificação, cores, sons, strings, alarmes, 
+controle de tarefas atrasadas. Completr as especificações no git.
+
